@@ -1,6 +1,6 @@
 # Exoplanet Atmosphere Classification with Neural Networks
 
-This project explores how I can create and use artificial (synthetic) data to train AI models for astronomy. I focus on a specific case: teaching a neural network to identify different types of exoplanet atmospheres from their spectral signatures.
+This project explores how I can create and use artificial (synthetic) data to train AI models for astronomy. <br> I focus on a specific case: teaching a neural network to identify different types of exoplanet atmospheres from their spectral signatures.
 
 ## 🌍 Project Overview
 
@@ -65,7 +65,7 @@ The model uses a feedforward neural network with:
 
 ## 🎯 Project Goals
 
-This project serves as a proof-of-concept for synthetic data generation in astronomical applications. While starting from scratch provided valuable insights, my future work will focus on:
+This project serves as a proof-of-concept for synthetic data generation in astronomical applications. <br> <br> While starting from scratch provided valuable insights, my future work will focus on:
 
 1. Using real astronomical datasets as templates
 2. Developing methods to augment limited observational data
